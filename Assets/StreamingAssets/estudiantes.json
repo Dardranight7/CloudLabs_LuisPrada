@@ -1,0 +1,74 @@
+{
+  "estudiantes": [
+    {
+      "nombre": "Camila",
+      "apellido": "Rodríguez",
+      "codigo": "1001",
+      "correo": "camila.rodriguez@colegio.edu.co",
+      "notaFinal": 4.5
+    },
+    {
+      "nombre": "Santiago",
+      "apellido": "Gómez",
+      "codigo": "1002",
+      "correo": "santiago.gomez@colegio.edu.co",
+      "notaFinal": 2.3
+    },
+    {
+      "nombre": "Valentina",
+      "apellido": "Martínez",
+      "codigo": "1003",
+      "correo": "valentina.martinez@colegio.edu.co",
+      "notaFinal": 3.8
+    },
+    {
+      "nombre": "Juan",
+      "apellido": "Pérez",
+      "codigo": "1004",
+      "correo": "juan.perez@colegio.edu.co",
+      "notaFinal": 1.9
+    },
+    {
+      "nombre": "Isabella",
+      "apellido": "López",
+      "codigo": "1005",
+      "correo": "isabella.lopez@colegio.edu.co",
+      "notaFinal": 4.0
+    },
+    {
+      "nombre": "Mateo",
+      "apellido": "Hernández",
+      "codigo": "1006",
+      "correo": "mateo.hernandez@colegio.edu.co",
+      "notaFinal": 2.7
+    },
+    {
+      "nombre": "Sofía",
+      "apellido": "Díaz",
+      "codigo": "1007",
+      "correo": "sofia.diaz@colegio.edu.co",
+      "notaFinal": 3.2
+    },
+    {
+      "nombre": "Nicolás",
+      "apellido": "Torres",
+      "codigo": "1008",
+      "correo": "nicolas.torres@colegio.edu.co",
+      "notaFinal": 4.8
+    },
+    {
+      "nombre": "Mariana",
+      "apellido": "Ramírez",
+      "codigo": "1009",
+      "correo": "mariana.ramirez@colegio.edu.co",
+      "notaFinal": 2.5
+    },
+    {
+      "nombre": "Andrés",
+      "apellido": "Castro",
+      "codigo": "1010",
+      "correo": "andres.castro@colegio.edu.co",
+      "notaFinal": 3.5
+    }
+  ]
+}
